@@ -21,3 +21,4 @@ How to run locally
 
 Jenkins
 - The included Jenkinsfile runs `mvn clean test` and publishes JUnit test results.
+- changed
